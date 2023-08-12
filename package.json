@@ -1,0 +1,16 @@
+{
+  "name": "victor",
+  "version": "1.0.0",
+  "description": "chatgpt with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
